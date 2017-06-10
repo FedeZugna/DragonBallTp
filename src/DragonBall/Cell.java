@@ -24,4 +24,5 @@ public class Cell extends Personaje{
 		EstadoCellPerfecto nuevo_estado = new EstadoCellPerfecto();
 		this.transformar(this.costo_transformacion_2, nuevo_estado);
 	}
+	
 }
